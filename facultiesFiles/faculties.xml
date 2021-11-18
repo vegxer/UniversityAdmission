@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Faculties>
+    <Faculty>
+        <name>Факультет компьютерных и физико-математических наук</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>80</score>
+            </Subject>
+            <Subject>
+                <name>Математика профиль</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>Информатика</name>
+                <score>90</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <name>Факультет автоматики и вычислительной техники</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>Математика профиль</name>
+                <score>60</score>
+            </Subject>
+            <Subject>
+                <name>Физика</name>
+                <score>90</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <name>Факультет географии</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>Математика база</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>География</name>
+                <score>70</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <name>Факультет филологии</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>90</score>
+            </Subject>
+            <Subject>
+                <name>Математика база</name>
+                <score>60</score>
+            </Subject>
+            <Subject>
+                <name>Литература</name>
+                <score>80</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <name>Химико-биологический факультет</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>80</score>
+            </Subject>
+            <Subject>
+                <name>Биология</name>
+                <score>80</score>
+            </Subject>
+            <Subject>
+                <name>Химия</name>
+                <score>84</score>
+            </Subject>
+            <Subject>
+                <name>Математика профиль</name>
+                <score>90</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+    <Faculty>
+        <name>Юридический факультет</name>
+        <Subjects>
+            <Subject>
+                <name>Русский язык</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>Математика база</name>
+                <score>70</score>
+            </Subject>
+            <Subject>
+                <name>Обществознание</name>
+                <score>90</score>
+            </Subject>
+        </Subjects>
+    </Faculty>
+</Faculties>
